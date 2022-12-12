@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cuadrado {
+    height: 200px;
+    width: 200px;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+h4 {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+#div1,
+#div2,
+#div3,
+#div4 {
+    margin: 10px;
+    padding: 10px;
+    background-color: blueviolet;
+}
